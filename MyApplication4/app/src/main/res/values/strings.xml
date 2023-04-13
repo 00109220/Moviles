@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">My Application</string>
-    <string name="weight">WEIGHT</string>
-    <string name="_0">0</string>
-    <string name="kg">KG</string>
-    <string name="height">HEIGHT</string>
-    <string name="_0">0</string>
-    <string name="cm">cm</string>
-</resources>
